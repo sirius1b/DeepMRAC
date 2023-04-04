@@ -7,6 +7,7 @@ This is Deep Model Reference Adaptive Controller implementation applied on WingR
 
 #### Simulation Architecture
 <img src="imgs/architecture.png">
+
 #### Sim. Results
 <img src="imgs/plo3.png">
 
