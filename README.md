@@ -8,7 +8,7 @@ This is Deep Model Reference Adaptive Controller implementation applied on WingR
 #### Simulation Architecture
 <img src="imgs/architecture.png">
 #### Sim. Results
-<img src="imgs/plo.png">
+<img src="imgs/plo3.png">
 - [Main Paper](https://arxiv.org/abs/1909.08602)
 - [Singular Value Maximizing Buffer](https://ieeexplore.ieee.org/document/5991481)
 - [Generative Network](https://ieeexplore.ieee.org/document/8619431)
