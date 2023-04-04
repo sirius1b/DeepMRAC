@@ -1,0 +1,37 @@
+-i https://pypi.org/simple
+cmake==3.26.1
+contourpy==1.0.7 ; python_version >= '3.8'
+cycler==0.11.0 ; python_version >= '3.6'
+filelock==3.10.7 ; python_version >= '3.7'
+fonttools==4.39.3 ; python_version >= '3.8'
+jinja2==3.1.2 ; python_version >= '3.7'
+kiwisolver==1.4.4 ; python_version >= '3.7'
+lit==16.0.0
+markupsafe==2.1.2 ; python_version >= '3.7'
+matplotlib==3.7.1
+mpmath==1.3.0
+networkx==3.0 ; python_version >= '3.8'
+numpy==1.24.2 ; python_version >= '3.8'
+nvidia-cublas-cu11==11.10.3.66 ; platform_system == 'Linux' and platform_machine == 'x86_64'
+nvidia-cuda-cupti-cu11==11.7.101 ; platform_system == 'Linux' and platform_machine == 'x86_64'
+nvidia-cuda-nvrtc-cu11==11.7.99 ; platform_system == 'Linux' and platform_machine == 'x86_64'
+nvidia-cuda-runtime-cu11==11.7.99 ; platform_system == 'Linux' and platform_machine == 'x86_64'
+nvidia-cudnn-cu11==8.5.0.96 ; platform_system == 'Linux' and platform_machine == 'x86_64'
+nvidia-cufft-cu11==10.9.0.58 ; platform_system == 'Linux' and platform_machine == 'x86_64'
+nvidia-curand-cu11==10.2.10.91 ; platform_system == 'Linux' and platform_machine == 'x86_64'
+nvidia-cusolver-cu11==11.4.0.1 ; platform_system == 'Linux' and platform_machine == 'x86_64'
+nvidia-cusparse-cu11==11.7.4.91 ; platform_system == 'Linux' and platform_machine == 'x86_64'
+nvidia-nccl-cu11==2.14.3 ; platform_system == 'Linux' and platform_machine == 'x86_64'
+nvidia-nvtx-cu11==11.7.91 ; platform_system == 'Linux' and platform_machine == 'x86_64'
+packaging==23.0 ; python_version >= '3.7'
+pillow==9.5.0 ; python_version >= '3.7'
+pyparsing==3.0.9 ; python_full_version >= '3.6.8'
+python-dateutil==2.8.2 ; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
+scipy==1.10.1
+setuptools==67.6.1 ; python_version >= '3.7'
+six==1.16.0 ; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
+sympy==1.11.1 ; python_version >= '3.8'
+torch==2.0.0
+triton==2.0.0 ; platform_system == 'Linux' and platform_machine == 'x86_64'
+typing-extensions==4.5.0 ; python_version >= '3.7'
+wheel==0.40.0 ; python_version >= '3.7'
